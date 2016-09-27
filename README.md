@@ -2,7 +2,7 @@
 If you are trying to use Inkscape with the [Hype Framework](http://www.hypeframework.org/) you
 might have noticed that by default it doesn't seem to work correctly.  To get it to work
 as if you saved your document from illustrator, you need to delete the default layer in 
-Inkscape before you start, convert to paths, and make sure you groups are compound paths.
+Inkscape before you start, convert to paths, and make sure your groups are compound paths.
 
 ## Creating the document
 * open the layers panel (ctrl-shift-l)
